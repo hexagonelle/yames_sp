@@ -1,0 +1,13 @@
+name = "Create: Vintage Grinder Edition"
+filename = "vintage_grinder-1.20.1-1.1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/98Fja313/versions/kcPIO0yK/vintage_grinder-1.20.1-1.1.5.jar"
+hash-format = "sha512"
+hash = "fd22594683b1589fdda4dba95e7c241f1f1ebebbbb64aefee1d474dc9041beb55843f4f7166d7ca1e3f750851fa0c8f4b7eeaddde0010ef3dc5e2d38fe91db49"
+
+[update]
+[update.modrinth]
+mod-id = "98Fja313"
+version = "kcPIO0yK"

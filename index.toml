@@ -1,0 +1,2092 @@
+hash-format = "sha256"
+
+[[files]]
+file = "defaultconfigs/aether-server.toml"
+
+[[files]]
+file = "defaultconfigs/aggroindicator-server.toml"
+
+[[files]]
+file = "defaultconfigs/all_bark_all_bite.toml"
+
+[[files]]
+file = "defaultconfigs/chiselsandbits-server.toml"
+
+[[files]]
+file = "defaultconfigs/constructionwand-server.toml"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+
+[[files]]
+file = "defaultconfigs/create_enchantment_industry-server.toml"
+
+[[files]]
+file = "defaultconfigs/create_power_loader-server.toml"
+
+[[files]]
+file = "defaultconfigs/curios-server.toml"
+
+[[files]]
+file = "defaultconfigs/fastleafdecay-server.toml"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+
+[[files]]
+file = "defaultconfigs/framedblocks-server.toml"
+
+[[files]]
+file = "defaultconfigs/jei-server.toml"
+
+[[files]]
+file = "defaultconfigs/paintings-server.toml"
+
+[[files]]
+file = "defaultconfigs/pathundergates-server.toml"
+
+[[files]]
+file = "defaultconfigs/simplebackups-server.toml"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+
+[[files]]
+file = "defaultconfigs/sophisticatedstorage-server.toml"
+
+[[files]]
+file = "keybind_bundles.json"
+
+[[files]]
+file = "kubejs/README.txt"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/diamond_exchanger.json"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/iron_exchanger.json"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/netherite_exchanger.json"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/stone_exchanger.json"
+
+[[files]]
+file = "kubejs/assets/exchangers/models/item/wooden_exchanger.json"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/core_tier_1.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/core_tier_2.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/core_tier_3.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/diamond.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear.png.mcmeta"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear1.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear1.png.mcmeta"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear2.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear2.png.mcmeta"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear3.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear3.png.mcmeta"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/gear_primary.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/iron.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/netherite.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/stone.png"
+
+[[files]]
+file = "kubejs/assets/exchangers/textures/item/wood.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/models/item/lantern_housing.json"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_andesite.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_clay.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/compressed_cobblestone.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_andesite.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_clay.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/double_compressed_cobblestone.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/example_block.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_andesite.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_clay.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/hextuple_compressed_cobblestone.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_andesite.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_clay.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quadruple_compressed_cobblestone.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_andesite.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_clay.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/quintuple_compressed_cobblestone.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/single_compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_andesite.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_clay.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobbled_deepslate.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/triple_compressed_cobblestone.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/baby_charcoal.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/baby_coal.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/example_item.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/litematic_staff.png"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/soul_lantern.png"
+
+[[files]]
+file = "kubejs/client_scripts/example.js"
+
+[[files]]
+file = "kubejs/client_scripts/lootr.js"
+
+[[files]]
+file = "kubejs/client_scripts/vanilla.js.disabled"
+
+[[files]]
+file = "kubejs/config/client.properties"
+
+[[files]]
+file = "kubejs/config/common.properties"
+
+[[files]]
+file = "kubejs/server_scripts.bak/constructionwand_simplyswords.js.disabled"
+
+[[files]]
+file = "kubejs/server_scripts.bak/custom-litematicstaff.js.disabled"
+
+[[files]]
+file = "kubejs/server_scripts.bak/farmersdelight_simplyswords.js.disabled"
+
+[[files]]
+file = "kubejs/server_scripts.bak/monsterplus.js.bad"
+
+[[files]]
+file = "kubejs/server_scripts.bak/quark_wizardsreborn.js.bak"
+
+[[files]]
+file = "kubejs/server_scripts.bak/reliquary.js.disabled"
+
+[[files]]
+file = "kubejs/server_scripts.bak/villagerTrades.js.old"
+
+[[files]]
+file = "kubejs/server_scripts/almostunified.js"
+
+[[files]]
+file = "kubejs/server_scripts/berrygood.js"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered.js"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_everycomp.js"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_handcrafted.js"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_magicvibe.js"
+
+[[files]]
+file = "kubejs/server_scripts/cluttered_supplementaries.js"
+
+[[files]]
+file = "kubejs/server_scripts/cobblegen.js"
+
+[[files]]
+file = "kubejs/server_scripts/create.js"
+
+[[files]]
+file = "kubejs/server_scripts/create_alexscaves.js"
+
+[[files]]
+file = "kubejs/server_scripts/create_central_kitchen.js"
+
+[[files]]
+file = "kubejs/server_scripts/create_embers.js"
+
+[[files]]
+file = "kubejs/server_scripts/create_quark.js"
+
+[[files]]
+file = "kubejs/server_scripts/create_wizardsreborn.js"
+
+[[files]]
+file = "kubejs/server_scripts/creategbd.js"
+
+[[files]]
+file = "kubejs/server_scripts/createhenry.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-baby_coal.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-babycoal.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-compressedblocks.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-compressedblocks_quark.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-lantern_housing.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-lanternhousing.js"
+
+[[files]]
+file = "kubejs/server_scripts/custom-lanternhousing_realistictorches.js"
+
+[[files]]
+file = "kubejs/server_scripts/delightful_hexerei.js"
+
+[[files]]
+file = "kubejs/server_scripts/embers_terralith.js"
+
+[[files]]
+file = "kubejs/server_scripts/emi_endrem.js"
+
+[[files]]
+file = "kubejs/server_scripts/emi_exchangers.js"
+
+[[files]]
+file = "kubejs/server_scripts/emi_farmingforblockheads.js"
+
+[[files]]
+file = "kubejs/server_scripts/emi_reliquary.js"
+
+[[files]]
+file = "kubejs/server_scripts/endrem.js"
+
+[[files]]
+file = "kubejs/server_scripts/exchangers.js"
+
+[[files]]
+file = "kubejs/server_scripts/explorerscompass.js"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight.js"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_create.js"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_quark.js"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_silentgear.js"
+
+[[files]]
+file = "kubejs/server_scripts/farmersdelight_supplementaries.js"
+
+[[files]]
+file = "kubejs/server_scripts/farmingforblockheads.js"
+
+[[files]]
+file = "kubejs/server_scripts/handcrafted.js"
+
+[[files]]
+file = "kubejs/server_scripts/handcrafted_supplementaries.js"
+
+[[files]]
+file = "kubejs/server_scripts/hexerei.js"
+
+[[files]]
+file = "kubejs/server_scripts/lootr.js"
+
+[[files]]
+file = "kubejs/server_scripts/quark.js"
+
+[[files]]
+file = "kubejs/server_scripts/rituals.js"
+
+[[files]]
+file = "kubejs/server_scripts/silentgear.js"
+
+[[files]]
+file = "kubejs/server_scripts/silentgear_supplementaries.js"
+
+[[files]]
+file = "kubejs/server_scripts/vanilla.js"
+
+[[files]]
+file = "kubejs/server_scripts/waystones.js"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-babycoal.js"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-compressedblocks.js"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-compressedblocks_quark.js"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-lantern_housing.js"
+
+[[files]]
+file = "kubejs/startup_scripts/custom-litematicstaff.js"
+
+[[files]]
+file = "kubejs/startup_scripts/example.js"
+
+[[files]]
+file = "mods/3dskinlayers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/achievements-optimizer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/advanced-chimneys.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/aggroindicator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/akashic-tome.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/all-bark-all-bite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/alltheleaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/almanac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/amplified-nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/apothic-combat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/applesaplings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/areas.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ash-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/astikorcarts-redux.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/athena.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/auto-third-person.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bad-horse-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bareback-horse-riding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bartering-station.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bed-benefits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bee-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/berry-good.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-burning.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bettersmithingtable.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/block-runner.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/boat-break-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bone-zone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/born-in-chaos.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/born-in-configuration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/botarium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/buzzier-bees.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/caelus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/callable-horses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cardiac.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cb-multipart.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chickensshed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chimes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chisel-chipped-integration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/clean-tooltips.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/client-crafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cluttered.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cobweb.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib-1-8.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/colorful-hearts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connectible-chains-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connectivity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/connector.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/construction-wand.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cooking-for-blockheads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copper-tuff-backport-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/copycats.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/corail-tombstone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-air-ducts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-central-kitchen.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-connected.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-encased.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-enchantment-industry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-fishery-industry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-framed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-guardian-beam-defense.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-henry.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-high-pressure.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-liquid-fuel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-mechanical-spawner.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-misc-and-things.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-metals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-molten-vents.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-more-farmables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-more-parallel-pipes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-new-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-pattern-schematics.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-power-loader.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-qol.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-railways-navigator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-rustic-structures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-sound-of-steam.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-steam-n-rails.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-teleporters.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create-vintage-grinder-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/create_oxidized.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/critters-and-companions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/crying-ghasts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curious-armor-stands.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/curious-lanterns.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/decorative-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/decorative-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deeperdarker.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/default-server-properties.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/deimos.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/delightful.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/despawning-eggs-hatch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-walls.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-windows.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/diet.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dismount-entity.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/dynamic_asset_generator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/eating-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/embers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-enchanting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-(emip).pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-descriptions.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/end-portal-recipe.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/end-respawn-anchor.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ender-trigon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/endrem.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/escalated.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/even-better-amethyst.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/excavated_variants.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/exchangers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/experimental-settings-disabler.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/explorers-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/farming-for-blockheads.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-ip-ping.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/figura.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fire-arrows-ignite-fire.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fish-on-the-line.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fishing-real.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fix-experience-bug.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fix-gpu-memory-leak.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/flickerfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fluffy-fur.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/forgiving-void.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/framework.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ftb-library-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fuelgoeshere.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckoanimfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gml.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/golem-spawn-animation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/gunpowderlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hardcore-revival.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/healing-campfire.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/highlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/horse-expert.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/hypertube.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/idas.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-aircraft.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-machinery.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/immersive-weathering.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/in-control.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/incubation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/infinitybuttons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/integrated-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/integrated-stronghold.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/integrated-villages.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/inventory-essentials.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/iris-flw-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade-addons-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jaopca.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/keybind-bundles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kleiders-custom-renderer-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/krypton-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-create.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/leawind-third-person.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/libertyvillagers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/littletiles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/login-protection.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/loot-beams-refork.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/magic-vibe-decorations.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/make_bubbles_pop.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/map-atlases-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mavapi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mavm.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/max-health-fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mindful-darkness.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/modonomicon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mooshroom-spawn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mopeds.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/morejs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/multi-mine.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nether-portal-spread.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nethers-delight.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nightlights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nirvana-library.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-animal-tempt-delay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/no-hostiles-around-campfire.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nomowanderer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nullscape.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/obsidianui.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/overloaded-armor-bar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/overworld-piglins.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paintings.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/passthrough-signs.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/path-under-gates.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/personality!.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/petrolpark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/petrols-parts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/plushie.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/pots-and-mimics-rpg.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/protection-pixel.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/raws-visual-keybinder.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/realistic-torches.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-fallen-adventurers.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/realm-rpg-imps-demons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/regrowth.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/responsiveshields.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ribbits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/saturn.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scaffolding-drops-nearby.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/scholar.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/servercore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/shetiphiancore.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/silent-gear.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/silent-lib.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sky-villages-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sleeping-bags.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/slimyboyos.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot-reloaded.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sneak-through-berries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-mod-compat.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/some-assembly-required.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/soul-fire-d.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/spyglass-improvements.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/stackablepotions-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/statement.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/subtle-effects.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/summoningrituals.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/sushigocrafting.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/torch-slabs-renewed.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trading-post.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/transparent.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/via-romana.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wart-decay.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/weaponmaster.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wither-spawn-animation.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/ydms-fennec-fox.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/zeta.pw.toml"
+metafile = true
+
+[[files]]
+file = "options.txt"
+
+[[files]]
+file = "resourcepacks/3d-crops.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/all-tropical-fish-collection.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/armory-conglomery.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-nether-porta.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cluttered_everycomp_fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/compressed_blocks.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-immersive-aircrafts-resource-pack.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-style-construction-wands.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/create-teleporters-remastered.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cubic-sun-moon.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ender-dragon-revamp.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/explorer_compass_retexture.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/immersive_generators_emi.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/merchant_fix.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed-+-fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/mobs-refreshed.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/newer-age.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined_test.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/sophisticated-quark.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/vanilla_tweaks_1.20.x.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/villagers-refreshed-+-fresh-animations.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/villagers-refreshed.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/visual-travelers-titles.pw.toml"
+metafile = true
+
+[[files]]
+file = "resourcepacks/wither_king_of_nether.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/BSL_v10.0.zip.txt"
+
+[[files]]
+file = "shaderpacks/bsl-shaders-classic.pw.toml"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+metafile = true

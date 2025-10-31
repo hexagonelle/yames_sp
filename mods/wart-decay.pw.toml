@@ -1,0 +1,13 @@
+name = "Wart Decay"
+filename = "wartdecay-forge-1.20.1-2.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/sZbpiFiF/versions/qhCP4zh8/wartdecay-forge-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "3f40db7a83fe566497945c9fa1384de7c37e489710c0ed0e71f9839551e3fed9db37c690eeeeed9b54dca6b1a90023b82c608d7ef690a10f6dc3c10f42e4aba4"
+
+[update]
+[update.modrinth]
+mod-id = "sZbpiFiF"
+version = "qhCP4zh8"

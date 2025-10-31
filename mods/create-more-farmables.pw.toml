@@ -1,0 +1,13 @@
+name = "Create: More Farmables"
+filename = "c-more_farmables-0.8.2-1.20.1.beta+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/akdpvjri/versions/5FDB0cPs/c-more_farmables-0.8.2-1.20.1.beta%2Bforge.jar"
+hash-format = "sha512"
+hash = "b617d5483ba6edc5b2e26aef36f894aa743641c89b12afb50f17fe893ad61b3ce449e9abdc7b723d48a8240bcfb6db2b4c18a54c78d43c7556d9e2bd2dec6fc6"
+
+[update]
+[update.modrinth]
+mod-id = "akdpvjri"
+version = "5FDB0cPs"

@@ -1,0 +1,13 @@
+name = "Liberty's Villagers"
+filename = "libertyvillagers-2.0.0+forge+1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/264clomZ/versions/pLlC13lB/libertyvillagers-2.0.0%2Bforge%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "408a853bac1599f4e3709b1234cbf2ceea67afc97d3f2f56694928e7b3f05fa2ce0401ab7303600cfdb26e6143182b883f3dcfade4e0cb364dd03216f3b12e5b"
+
+[update]
+[update.modrinth]
+mod-id = "264clomZ"
+version = "pLlC13lB"

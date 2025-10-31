@@ -1,0 +1,13 @@
+name = "Forgiving Void"
+filename = "forgivingvoid-forge-1.20.1-10.0.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1vkzEZjE/versions/BVvAbUp6/forgivingvoid-forge-1.20.1-10.0.2.jar"
+hash-format = "sha512"
+hash = "0cc5358cae477cfddc6276a73990b871bf9f3ef796a6693451f8a94950cdbd61f52e455c740f87afc28e076a7d63fdfb995725ce68014fbda4b1ead78401dd9a"
+
+[update]
+[update.modrinth]
+mod-id = "1vkzEZjE"
+version = "BVvAbUp6"

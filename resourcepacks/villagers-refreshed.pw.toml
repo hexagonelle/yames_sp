@@ -1,0 +1,13 @@
+name = "Villagers Refreshed"
+filename = "villagers-refreshed-v2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/N7Eq8Y7N/versions/KJXtAUIj/villagers-refreshed-v2.zip"
+hash-format = "sha512"
+hash = "5cbd399bb9f6457fa3c7f9544c8bedfdd62bbadd28da4ba699041be66525e0162f141691880456fa9e374dc031700df3d1140e8d6d85fabda624f05af7da7d39"
+
+[update]
+[update.modrinth]
+mod-id = "N7Eq8Y7N"
+version = "KJXtAUIj"

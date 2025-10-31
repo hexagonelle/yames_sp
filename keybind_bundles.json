@@ -1,0 +1,58 @@
+[
+  {
+    "id": "5f77f041-f8d2-40d2-a7d4-2b16f0bdbd0f",
+    "name": "Create",
+    "entries": [
+      {
+        "key": "keyinfo.copycats.fill_copycat",
+        "title": "Fill Copycat with Material"
+      },
+      {
+        "key": "create.keyinfo.toolbelt",
+        "title": "Access Nearby Toolboxes"
+      },
+      {
+        "key": "create.keyinfo.toolmenu",
+        "title": "Focus Schematic Overlay"
+      },
+      {
+        "key": "railways.keyinfo.bogey_menu",
+        "title": "Open Bogey Menu"
+      },
+      {
+        "key": "railways.keyinfo.cycle_menu",
+        "title": "Open Cycle Menu"
+      },
+      {
+        "key": "key.createrailwaysnavigator.route_overlay_options",
+        "title": "Show Route Overlay Options"
+      }
+    ]
+  },
+  {
+    "id": "f0a49765-e83a-4c7b-bd4f-630c84f8af2f",
+    "name": "Mounts \u0026 Vehicles",
+    "entries": [
+      {
+        "key": "key.astikorcarts.desc",
+        "title": "Action Key"
+      },
+      {
+        "key": "key.smallships.ship_sail",
+        "title": "Toggle Sail"
+      },
+      {
+        "key": "key.showstats.desc",
+        "title": "Show Horse Stats"
+      },
+      {
+        "key": "key.callhorse.desc",
+        "title": "Call Horse"
+      },
+      {
+        "key": "key.sethorse.desc",
+        "title": "Set Horse"
+      }
+    ]
+  }
+]

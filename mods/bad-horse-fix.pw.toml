@@ -1,0 +1,13 @@
+name = "Bad Horse Fix"
+filename = "badhorsefix-forge-3.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/A4pJeHgM/versions/NTtIPz4X/badhorsefix-forge-3.0.1.jar"
+hash-format = "sha512"
+hash = "3057bfe691fd0c7c8bdc926c5744c1b514bf6298d9532cf3afcbd07555e1c87927ed626e566c72ae3b2aa50551e6f9f61fa078528cf9149e175f6f387b4d0007"
+
+[update]
+[update.modrinth]
+mod-id = "A4pJeHgM"
+version = "NTtIPz4X"

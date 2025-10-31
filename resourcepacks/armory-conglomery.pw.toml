@@ -1,0 +1,13 @@
+name = "Armory Conglomery"
+filename = "armory-conglomery-v2.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJC1fwNH/versions/xtEMr5VU/armory-conglomery-v2.1.zip"
+hash-format = "sha512"
+hash = "b216cf9cd96906d8e09e1063f419b3a0313dcadf04c9d6e02bc53155805f9dcaafef337b5a30e559e1c4743342c33b46c349082fbf40d5f14e65f5891fb010ab"
+
+[update]
+[update.modrinth]
+mod-id = "uJC1fwNH"
+version = "xtEMr5VU"

@@ -1,0 +1,13 @@
+name = "better nether portal"
+filename = "better nether portal_1.20.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2216bc971cd13f2c4a0fc9377983eebd0df3c90f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4595724
+project-id = 877002

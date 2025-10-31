@@ -1,0 +1,13 @@
+name = "End Respawn Anchor"
+filename = "end_respawn_anchor_1.20.1-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xmdHQIdW/versions/O0dV98r9/end_respawn_anchor_1.20.1-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "d1b16ee13dcc640e51ba899205a09b80dbe9d92d3209b2b5d5fbf79e8113d56b27111828f2bb56979a2e3e7ca53d46e5b49b3db675d1204a472e130d3a6c9e00"
+
+[update]
+[update.modrinth]
+mod-id = "xmdHQIdW"
+version = "O0dV98r9"

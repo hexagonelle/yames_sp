@@ -1,0 +1,13 @@
+name = "Statement"
+filename = "Statement-4.2.7+1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/a9AsUNGn/versions/m8DpH9VB/Statement-4.2.7%2B1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "4dffa3ed4762ba00be1df1970ce17bd8bba38331c14e20c8d015d00bca17df6caddbc792efd78973a541a352e5076addbb98c496689409bcf82acfec22b92854"
+
+[update]
+[update.modrinth]
+mod-id = "a9AsUNGn"
+version = "m8DpH9VB"

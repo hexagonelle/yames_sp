@@ -1,0 +1,13 @@
+name = "All Tropical Fish Collection"
+filename = "TropicalFish-resource.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/hZCDDXjL/versions/cQCDvH10/TropicalFish-resource.zip"
+hash-format = "sha512"
+hash = "65a908f45d7844abee7dcbe7ee3e55205db158ea7982055df30c616caf2cab09b5dffb0af2d092e84c659aac74c0a44280c237be61b40cd7f830c8d522a508f8"
+
+[update]
+[update.modrinth]
+mod-id = "hZCDDXjL"
+version = "cQCDvH10"
