@@ -1719,11 +1719,6 @@ hash = "8967c279523e66d0ebe110a594d34aa90c3a3089c4a83eeb6e142e4d745f37d7"
 metafile = true
 
 [[files]]
-file = "mods/kleiders-custom-renderer-api.pw.toml"
-hash = "0e5e5e8a32a862ec73f0cc1fd544cff68a5612a2d7fd265c4132f28c42ef8037"
-metafile = true
-
-[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "40026875ee9b7d25a4ece48faa2b70a338100e87a689d5a8d4ba1ee608b878f6"
 metafile = true
@@ -2090,7 +2085,7 @@ metafile = true
 
 [[files]]
 file = "mods/protection-pixel.pw.toml"
-hash = "2b5250f459a8b3c8f638bf3c48ece343c81c6d68717ff79a191ad8c0660d5e5f"
+hash = "fd98379c32059cdb3eaa03974c396e57093ef650ed00d0e795e678dc1213feb9"
 metafile = true
 
 [[files]]
