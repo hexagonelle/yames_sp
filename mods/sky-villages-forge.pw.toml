@@ -1,6 +1,6 @@
 name = "Sky Villages [Forge]"
 filename = "SkyVillages-1.0.4-1.19.2-1.20.1-forge-release.jar"
-side = "both"
+side = "server"
 
 [download]
 hash-format = "sha1"
