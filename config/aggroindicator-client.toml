@@ -20,7 +20,7 @@
 	clientMobBlacklist = []
 	#The texture of the aggro icon
 	#Allowed Values: CLASSIC, MGS, BLOCK_BENCH
-	clientAggroIconStyle = "CLASSIC"
+	clientAggroIconStyle = "BLOCK_BENCH"
 	#The color of the alert icon
 	alertColorHex = "0xFF6666"
 	#Draw alert icons only for the blacklisted mobs instead

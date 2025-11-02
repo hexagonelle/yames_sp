@@ -49,7 +49,7 @@
 	#If enabled, leashed mobs will be teleported with you
 	transportLeashed = true
 	#Whether to take leashed mobs with you when teleporting between dimensions
-	transportLeashedDimensional = true
+	transportLeashedDimensional = false
 	#List of leashed mobs that cannot be taken with you when teleporting
 	leashedDenyList = ["minecraft:wither"]
 	#Set to 'ALLOW' to allow dimensional warp in general. Set to 'GLOBAL_ONLY' to restrict dimensional warp to global waystones. Set to 'DENY' to disallow all dimensional warps.

@@ -945,7 +945,6 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "d47260d085f9c59609bbc7582968e60f4c476d934c815142360bbcc4b5113a4d"
 metafile = true
 
 [[files]]
@@ -1394,6 +1393,10 @@ hash = "9042aa152592171ad37f7dcaf5f812477d79110df29e2a595e30c5339ca9686d"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/excavated_variants.pw.toml"
 hash = "8c99a2f18765dea9f320eed774f060e1082366fafd94d406375cacfcbd117750"
 metafile = true
@@ -1489,11 +1492,6 @@ hash = "5801291e933b48ef8185cf52bb39371879b67f555dd315987dfe10342e11bd89"
 metafile = true
 
 [[files]]
-file = "mods/fishing-real.pw.toml"
-hash = "6cb2bff49eebfd73dc88ffe9888896f21d4167418fb0d187becbd02db895b7ef"
-metafile = true
-
-[[files]]
 file = "mods/fix-experience-bug.pw.toml"
 hash = "62e8f9c97fc1365d40025e696cdfc71e5df4b8b829c04db5e7055b5476b9e0a7"
 metafile = true
@@ -1501,11 +1499,6 @@ metafile = true
 [[files]]
 file = "mods/fix-gpu-memory-leak.pw.toml"
 hash = "c4032dc8c4f85576b7d89f719aa56241fbcdede45d3fc8bad43c86e499d01a67"
-metafile = true
-
-[[files]]
-file = "mods/flickerfix.pw.toml"
-hash = "bbcdcd1dce16605ea617b4c5f5b7da6f635017671d82da7a336e2e42c983e24a"
 metafile = true
 
 [[files]]
@@ -1704,6 +1697,10 @@ hash = "6d8ca5f4586ae60fe0771ae32a7cb3230030b92fda58d1761c770c24afaa54b2"
 metafile = true
 
 [[files]]
+file = "mods/just-player-heads.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "f517f757ca25c9ff020d7b290b0724a13fd9ddd9e6c2a2fd1354b312e768223f"
 metafile = true
@@ -1845,7 +1842,6 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "59ddb20cb1fddab5a1a0349e0452f5100c2bec8c51e746658553f92dc8239512"
 metafile = true
 
 [[files]]
@@ -2644,4 +2640,8 @@ metafile = true
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
+metafile = true
+
+[[files]]
+file = "shaderpacks/shrimple.pw.toml"
 metafile = true

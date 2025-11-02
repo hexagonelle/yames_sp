@@ -1,6 +1,0 @@
-#how far can you see locked pipe outline
-#Range: 1 ~ 128
-outlineRange = 24
-#can you see the pipe outline with a wrench
-outlineWrench = true
-

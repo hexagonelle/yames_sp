@@ -90,6 +90,7 @@ ServerEvents.tags('item', event => {
 
 ServerEvents.compostableRecipes(event => {
 	event.add("silentgear:flax_seeds", 0.1)
+	event.add("silentgear:fluffy_seeds", 0.1)
 })
 
 let blockList = [

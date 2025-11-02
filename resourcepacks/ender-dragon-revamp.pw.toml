@@ -1,6 +1,6 @@
 name = "Ender Dragon Revamp"
 filename = "Better_Enderdragon.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

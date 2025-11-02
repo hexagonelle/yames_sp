@@ -120,7 +120,7 @@ spawnLogic = "BRIGHTNESS"
 steamingWater = false
 boilingWater = false
 steamingWaterCauldron = false
-boilingWaterCauldron = false
+boilingWaterCauldron = true
 steamingThreshold = 11
 boilingThreshold = 13
 

@@ -1,6 +1,6 @@
 name = "Create: Teleporters Remastered"
 filename = "Create Teleporters Remastered V0.1 1.20.1 Fix.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

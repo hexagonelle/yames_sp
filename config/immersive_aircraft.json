@@ -5,7 +5,7 @@
   "enableCrashFire": false,
   "crashExplosionRadius": 2.0,
   "crashDamage": 2.0,
-  "preventKillThroughCrash": true,
+  "preventKillThroughCrash": false,
   "healthBarRow": 0,
   "damagePerHealthPoint": 30,
   "separateCamera": true,

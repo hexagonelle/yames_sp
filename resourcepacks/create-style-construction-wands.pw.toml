@@ -1,6 +1,6 @@
 name = "Lopy's Create Style Construction Wands"
 filename = "Create-Construction-Wands.zip"
-side = "both"
+side = "client"
 
 [download]
 hash-format = "sha1"

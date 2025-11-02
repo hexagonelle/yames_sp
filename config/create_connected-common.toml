@@ -12,8 +12,8 @@ migrateCopycatsOnInitialize = true
 	item_silo = true
 	inverted_clutch = true
 	empty_fan_catalyst = true
-	parallel_gearbox = true
-	inventory_access_port = true
+	parallel_gearbox = false
+	inventory_access_port = false
 	centrifugal_clutch = true
 	copycat_slab = true
 	overstress_clutch = true
@@ -22,10 +22,10 @@ migrateCopycatsOnInitialize = true
 	copycat_fence_gate = true
 	copycat_stairs = true
 	large_crank_wheel = true
-	brass_gearbox = true
+	brass_gearbox = false
 	copycat_vertical_step = true
 	copycat_wall = true
-	six_way_gearbox = true
+	six_way_gearbox = false
 	crank_wheel = true
 	encased_chain_cogwheel = true
 	sequenced_pulse_generator = true
@@ -35,13 +35,13 @@ migrateCopycatsOnInitialize = true
 	linked_transmitter = true
 	copycat_beam = true
 	copycat_board = true
-	inventory_bridge = true
+	inventory_bridge = false
 	copycat_fence = true
 	#.
-	kinetic_bridge = true
-	cross_connector = true
+	kinetic_bridge = false
+	cross_connector = false
 	redstone_link_wildcard = true
-	kinetic_battery = true
+	kinetic_battery = false
 
 #.
 #Enable/disable categories of features. Disabling a category hides all related features. Values on server override clients

@@ -73,7 +73,7 @@
 	#Allows teleportation to other dimensions [false/true|default:true]
 	teleport_dim = true
 	#Increases the minimum time without sleeping for phantom spawn around player based on their level in Knowledge of Death [false/true|default:true]
-	knowledge_reduce_phantom_spawn = true
+	knowledge_reduce_phantom_spawn = false
 	#Minimum time without sleeping for phantom to spawn around players [1200..MAX|default:72000]
 	#Range: > 1200
 	time_for_phantom_spawn = 72000
@@ -183,7 +183,7 @@
 	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
 	curio_auto_equip = true
 	#Allows to provide a default support for bundle in Curio mod [false/true|default:true]
-	curio_bundle_support = true
+	curio_bundle_support = false
 	#Allows to provide a magic book slot in Curio mod used to enchant with a soul [false/true|default:true]
 	curio_magic_book_support = true
 	#Keeps the cosmetic armor when you die [false/true|default:true]

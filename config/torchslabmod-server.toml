@@ -1,7 +1,7 @@
 
 [torchslabmodconfig]
 	#Allow the user to place lanterns on the lower sections of blocks. Does not effect the placement of lower slabs sides, or the sides/front of stairs. [True / False]
-	LanternLowerBlockCheck = true
+	LanternLowerBlockCheck = false
 	#Allow the placemnet of torchs on upper half of wall blocks. Does not effect the placement on upper slabs sides, or the sides/front of stairs. [True / False]
 	TorchUpperBlockCheck = false
 	#List of interactive blocks that require the player be shift clicked when placing a block. To add additional blocks, just use the formot of "ModID:Block_RegistryName"
