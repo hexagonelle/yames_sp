@@ -1,6 +1,6 @@
 name = "Particular ✨ Reforged"
 filename = "particular-1.20.1-Forge-1.2.7.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pYFUU6cq/versions/xwypRJhE/particular-1.20.1-Forge-1.2.7.jar"
