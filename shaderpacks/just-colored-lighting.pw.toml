@@ -1,0 +1,13 @@
+name = "Just Colored Lighting"
+filename = "Just Colored Lighting (v0.4.1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/McUqXQ0J/versions/sCDlsp06/Just%20Colored%20Lighting%20%28v0.4.1%29.zip"
+hash-format = "sha512"
+hash = "c914faddd0ddd82657576ae2aaac8d143955b0999df6c69d36d2c2709ab420aebcf38eb6a8f3012eb9faeb9ab0f513e6b06a92172fc44fa6bb1830df5dd1a962"
+
+[update]
+[update.modrinth]
+mod-id = "McUqXQ0J"
+version = "sCDlsp06"

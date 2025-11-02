@@ -3202,11 +3202,6 @@ hash = "f0a3b2a75840024a3dfc03dc073b20e61aa41cf939cef2698308029a5f870c35"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "cf8c5f2a139a2571d0d4b8be2b7463255cca721ae4a5741ec71595b7ab530e71"
 metafile = true
@@ -4836,20 +4831,6 @@ hash = "992dc131fe2555649d90555275ce97ffd96e012180489b7b367ceb49f85ec8f7"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v10.0.zip.txt"
-hash = "bfeadeb3e840eeb98ae64b52659f8588b92991001213e5f0ae0b236a74affac9"
-
-[[files]]
-file = "shaderpacks/bsl-shaders-classic.pw.toml"
-hash = "12f0f4fb508a6a178b3a725503d0802978b4bebdf678bccc5f81a5655a0db4c4"
-metafile = true
-
-[[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "d30923bf5cfb4988a372508cb461d8077609d79a38d0b170785804c7ad15f16e"
-metafile = true
-
-[[files]]
-file = "shaderpacks/shrimple.pw.toml"
-hash = "79733fc3a9a56bf32a40b4d79e4095747e0d010688887c76cc7a1e7db206d30a"
+file = "shaderpacks/just-colored-lighting.pw.toml"
+hash = "11b54b23f79d2724997e067eb3f4018c8194a5616bd418da28d5cb6ce6d6da4c"
 metafile = true
