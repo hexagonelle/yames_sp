@@ -3394,6 +3394,11 @@ hash = "08a2db404abdeeddd99346716bdf566705112db412566f2bde7c5780e62f5c2e"
 metafile = true
 
 [[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "4a24ff40173c5380b4cc3f6c34f1aaa06ee922a6c9fb060d1dd0aea89aef0e6c"
+metafile = true
+
+[[files]]
 file = "mods/decorative-core.pw.toml"
 hash = "a7f4ddaae943d99cf5f3de68a2b4a6a016da695078cbcf108b0d97d0edd4ac71"
 metafile = true
@@ -4565,7 +4570,7 @@ metafile = true
 
 [[files]]
 file = "mods/via-romana.pw.toml"
-hash = "e6a6a1082f7e78281d84451bd77c42f053c4251517ea13ee0e1d2a23c7b14287"
+hash = "78da4e7ac1b1327a50c4b9a53cd57a010631677bd91a29a7e8227c5095454e63"
 metafile = true
 
 [[files]]
