@@ -1,6 +1,6 @@
 name = "Wart Decay"
 filename = "wartdecay-forge-1.20.1-2.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sZbpiFiF/versions/qhCP4zh8/wartdecay-forge-1.20.1-2.0.0.jar"

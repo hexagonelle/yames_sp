@@ -4585,7 +4585,7 @@ metafile = true
 
 [[files]]
 file = "mods/wart-decay.pw.toml"
-hash = "05315071ccdb7f8870d077004931a770bc4a605620e093134ae9b5e2462c79dd"
+hash = "27a2e5fdd43056288defa9e5e13183b0dbbc8b67c460d309d92b30c346319f28"
 metafile = true
 
 [[files]]
