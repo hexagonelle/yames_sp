@@ -1,6 +1,7 @@
 name = "Create: Connected"
 filename = "create_connected-1.1.7-mc1.20.1-all.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/HMzC945H/create_connected-1.1.7-mc1.20.1-all.jar"

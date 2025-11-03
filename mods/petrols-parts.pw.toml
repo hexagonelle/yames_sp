@@ -1,6 +1,7 @@
 name = "Petrol's Parts"
 filename = "petrolsparts-1.20.1-1.2.3-all.jar"
 side = "both"
+pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/AN0CZD9P/versions/hCQO8AvZ/petrolsparts-1.20.1-1.2.3-all.jar"

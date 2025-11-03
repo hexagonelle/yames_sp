@@ -1,13 +1,13 @@
 name = "Inventory Essentials"
-filename = "inventoryessentials-forge-1.20.1-8.2.12.jar"
+filename = "inventoryessentials-forge-1.20.1-8.2.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Boon8xwi/versions/w32qwykm/inventoryessentials-forge-1.20.1-8.2.12.jar"
+url = "https://cdn.modrinth.com/data/Boon8xwi/versions/2C5GL0ow/inventoryessentials-forge-1.20.1-8.2.13.jar"
 hash-format = "sha512"
-hash = "1f6a6c04045381a14f526b3a2a232048db5871cc2ae3c6b51c96d12e85496857f60406b4cde0b613e476c55ee4023b6e9345dcbfccb3a0ffec7f66ed24cf8ca8"
+hash = "64e76e1705b06080de623f73dd366618a652b8ab74e6700d6daa466c7ea7bd514d53f84c394aa21db367760f91356b4ef5c575d90bd86eda7c65232db27e04bf"
 
 [update]
 [update.modrinth]
 mod-id = "Boon8xwi"
-version = "w32qwykm"
+version = "2C5GL0ow"

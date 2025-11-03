@@ -1,6 +1,7 @@
 name = "Spyglass Improvements: Zoom, Quick Access... [Fabric/NeoForge]"
 filename = "spyglass_improvements-1.5+mc1.20+forge.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"
