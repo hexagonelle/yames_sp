@@ -2809,6 +2809,11 @@ hash = "3d87ffb55a2e8b6768386764128afe8d4890afe19e9189cdbef88186630d0438"
 metafile = true
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+metafile = true
+
+[[files]]
 file = "mods/aggroindicator.pw.toml"
 hash = "a81aed8fb96e72bf0473db0541845ed969c5e7db1ace7b0c3a3c15d72a77e718"
 metafile = true
