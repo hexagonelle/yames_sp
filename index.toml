@@ -4675,7 +4675,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "189460c1f5dd40db2e89e038d96957b52885c5d32bb6499a51890e870e5eda5f"
+hash = "c6c2389b4e567f5743abb2b698fdd3830b2e82413b80f9bce85ec762268c8128"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -4806,6 +4806,10 @@ metafile = true
 file = "resourcepacks/wither_king_of_nether.pw.toml"
 hash = "992dc131fe2555649d90555275ce97ffd96e012180489b7b367ceb49f85ec8f7"
 metafile = true
+
+[[files]]
+file = "shaderpacks/Just Colored Lighting (v0.4.1).zip.txt"
+hash = "3a62476a24f2d748ca290fb16ddf154b27022c8c422138547e9e61c3f004167a"
 
 [[files]]
 file = "shaderpacks/just-colored-lighting.pw.toml"
