@@ -2570,34 +2570,6 @@ file = "kubejs/config/common.properties"
 hash = "63daee7d9e7c29b95a11ae2152674aa66f7f4c6d3a619cd1b8f83da59d839e8c"
 
 [[files]]
-file = "kubejs/server_scripts.bak/constructionwand_simplyswords.js.disabled"
-hash = "29d61bf4476ccf7e4af892b2793aabab4aa8280a4e526ab739ed92861badb3a7"
-
-[[files]]
-file = "kubejs/server_scripts.bak/custom-litematicstaff.js.disabled"
-hash = "0bc7e11eebb821a1d6053a0609b330771a89e3cc73b1983183ddee2207f7d553"
-
-[[files]]
-file = "kubejs/server_scripts.bak/farmersdelight_simplyswords.js.disabled"
-hash = "b7f5cae8cd76ddd643da1e78e4a553d24922e79af05b14b5d596185b7bd9fb4e"
-
-[[files]]
-file = "kubejs/server_scripts.bak/monsterplus.js.bad"
-hash = "b103ff666239bd495d179c65b84555c521708ec24bbc7672cfc9998d451f7a4d"
-
-[[files]]
-file = "kubejs/server_scripts.bak/quark_wizardsreborn.js.bak"
-hash = "e5180a05fc37092dd131fded6e8a7b528dce7dc45dfca29ac5a761419c8239c4"
-
-[[files]]
-file = "kubejs/server_scripts.bak/reliquary.js.disabled"
-hash = "f22f11b4eefb361fadcd892ff451490e032829dc9725862460662e771554c9e8"
-
-[[files]]
-file = "kubejs/server_scripts.bak/villagerTrades.js.old"
-hash = "9de916ae492854a965962f784edd6ea9cabe9f954bc48ce1d8296ab2c2c03327"
-
-[[files]]
 file = "kubejs/server_scripts/almostunified.js"
 hash = "97605d1c1f3184ebf0241bd4ddbfc8cc8f857afc0ba50436c4aa472944eea263"
 
@@ -2631,7 +2603,7 @@ hash = "779f72ae5a5390344f9dea76df256c341fec6989f3e2144e90d035a8a3c0b1c2"
 
 [[files]]
 file = "kubejs/server_scripts/cookingforblockheads_supplementaries.js"
-hash = "20c76b374b72335e0b78a6ca386c66dbd9a741a12874ade8c3256f8694c78534"
+hash = "9e2c876f56a9ddd7dcb133b0de2deace224b523042f408f1891745459210413a"
 
 [[files]]
 file = "kubejs/server_scripts/create.js"
@@ -4198,7 +4170,7 @@ metafile = true
 
 [[files]]
 file = "mods/particular-reforged.pw.toml"
-hash = "5f75fbb8f143d973279a41625de4c1d4382c09f7f902e978b67071846a1ef535"
+hash = "aa8b421901f51ab8a6f19d1bb6e95f744f220a755cdf938c050df7e12a654648"
 metafile = true
 
 [[files]]
@@ -4303,7 +4275,7 @@ metafile = true
 
 [[files]]
 file = "mods/radiant-gear.pw.toml"
-hash = "24cce958af7e38a592c1ef2fc4b95f1a90d42572fb476393a4cd3f7859666c9b"
+hash = "0769e162810d1d35105b3c777f8acdb52970b32f77da15d09c88c4e41eb2a3c4"
 metafile = true
 
 [[files]]
