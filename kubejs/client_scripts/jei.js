@@ -53,14 +53,30 @@ JEIEvents.information(event => {
 		["Swamp", swampEnchants]
 	]
 
+	function jeiEntry(location, enchants, inputEvent){
+		inputEvent.addItem(
+			'minecraft:enchanted_book',
+			[
+				'Obtained by trading with a ' +
+				location +
+				' Librarian villager:',
+				enchants[0],
+				enchants[1],
+				enchants[2],
+				enchants[3]
+			]
+		)
+	}
 
-	
+	var location = "";
+	var enchants = [];
+	enchantsList.forEach(enchantSet => {
+		location = enchantSet[0];
+		enchants = enchantSet[1];
 
-	event.addItem(
-		Item.of('minecraft:enchanted_book'),
-		['Obtained by trading with a' + ' Librarian villager:'],
-		['']
-	)
+		jeiEntry(location,enchants,event)
+
+	});
 
 
 

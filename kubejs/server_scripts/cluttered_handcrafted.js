@@ -6,7 +6,7 @@ ServerEvents.recipes(event => {
 	]
 
 	// fix conflict with handcrafted plate
-	shelvesList.forEach(shelf =>{
+	shelvesList.forEach(shelf => {
 		let materialBlockID = shelf[0] + "slab"
 		let outputID = "cluttered:small_shelf" + shelf[1]
 		let recipeID = outputID
