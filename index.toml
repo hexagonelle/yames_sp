@@ -2559,7 +2559,7 @@ hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
 [[files]]
 file = "kubejs/client_scripts/jei.js"
-hash = "d1f646ebf0d6b9a2d3a2513f146233ca78708872690c5c49d350ae9ae93e9f41"
+hash = "d5bd5e2f3ee76143120fcda22838ec8b5ed9046abe5ceba541b76d18ff94f0c4"
 
 [[files]]
 file = "kubejs/client_scripts/lootr.js"
@@ -2786,8 +2786,8 @@ file = "kubejs/startup_scripts/custom-litematicstaff.js"
 hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
 
 [[files]]
-file = "kubejs/startup_scripts/example.js"
-hash = "395c96d3ddd178821db851f387e91560e606ea752177f66d2016f12bd0542b8f"
+file = "kubejs/startup_scripts/villager_enchants_infobook.js"
+hash = "6b816b1bd3fb4ccd738c423d90e183140f4bfe91d2f9628d4eddd0df0c24b66a"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"

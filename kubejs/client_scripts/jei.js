@@ -55,7 +55,7 @@ JEIEvents.information(event => {
 
 	function jeiEntry(location, enchants, inputEvent){
 		inputEvent.addItem(
-			'minecraft:enchanted_book',
+			'kubejs:enchanted_book',
 			[
 				'Obtained by trading with a ' +
 				location +
