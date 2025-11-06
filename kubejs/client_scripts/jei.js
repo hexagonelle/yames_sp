@@ -60,9 +60,9 @@ JEIEvents.information(event => {
 				'Obtained by trading with a ' +
 				location +
 				' Librarian villager:',
-				enchants[0],
-				enchants[1],
-				enchants[2],
+				enchants[0] + "," +
+				enchants[1] + "," +
+				enchants[2] + "," +
 				enchants[3]
 			]
 		)

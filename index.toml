@@ -2559,7 +2559,7 @@ hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
 [[files]]
 file = "kubejs/client_scripts/jei.js"
-hash = "d5bd5e2f3ee76143120fcda22838ec8b5ed9046abe5ceba541b76d18ff94f0c4"
+hash = "cddb6042379abf8526be0c9cb89f2351f697a6ee7213074ac87dd45fd6adfd2e"
 
 [[files]]
 file = "kubejs/client_scripts/lootr.js"
@@ -4676,7 +4676,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c6c2389b4e567f5743abb2b698fdd3830b2e82413b80f9bce85ec762268c8128"
+hash = "0621e6d43b8ca2e9d69be2aff9e1368075c2cdb93ff502df9cadbca2ae4d9463"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -4809,8 +4809,12 @@ hash = "992dc131fe2555649d90555275ce97ffd96e012180489b7b367ceb49f85ec8f7"
 metafile = true
 
 [[files]]
+file = "shaderpacks/Just Colored Lighting (v0.4.1).zip"
+hash = "d8c78df794cfe6abd8addb0489cd22b2669ff76170b03517f98682fc9f7f957d"
+
+[[files]]
 file = "shaderpacks/Just Colored Lighting (v0.4.1).zip.txt"
-hash = "3a62476a24f2d748ca290fb16ddf154b27022c8c422138547e9e61c3f004167a"
+hash = "3f18c5c2105b424cda5df878632aee3fe8b9da46dc7b114a030015d230b45102"
 
 [[files]]
 file = "shaderpacks/just-colored-lighting.pw.toml"
