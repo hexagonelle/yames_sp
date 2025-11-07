@@ -4676,7 +4676,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0621e6d43b8ca2e9d69be2aff9e1368075c2cdb93ff502df9cadbca2ae4d9463"
+hash = "1660ff08e2a3991878f0513fe61e47566ced2cb92ed3eeb631ae0f78e53528e7"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
