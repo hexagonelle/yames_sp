@@ -4724,6 +4724,11 @@ hash = "228f4e643628e4c42f89745a638833e06303fb0bf0e7c73b246b6f9f17ef243c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/crop-growth-markers.pw.toml"
+hash = "9106319d5638eaae10945e3bf44d02f28d4fb86c97b831b2753da09815fd2eb1"
+metafile = true
+
+[[files]]
 file = "resourcepacks/cubic-sun-moon.pw.toml"
 hash = "753a052efd39dd6962fcc7ee05150c12ba391377fb43faff4cfeaf118929125e"
 metafile = true
@@ -4740,7 +4745,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "549e93a0956266ea167c18b7e82bbc06f06b75b59777515ef2ec9844561ba6c9"
+hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
 metafile = true
 
 [[files]]
