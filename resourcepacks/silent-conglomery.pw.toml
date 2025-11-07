@@ -1,5 +1,5 @@
 name = "Silent Conglomery"
-filename = "SiletnConglomery.zip"
+filename = "SilentConglomery.zip"
 side = "client"
 
 # This is a locally distributed file, so this url will not download the file!
