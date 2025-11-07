@@ -1,13 +1,14 @@
 name = "Villagers Refreshed"
-filename = "villagers-refreshed-v2.zip"
+filename = "villagers-refreshed-v1.0.zip"
 side = "client"
+pin = true
 
 [download]
-url = "https://cdn.modrinth.com/data/N7Eq8Y7N/versions/KJXtAUIj/villagers-refreshed-v2.zip"
+url = "https://cdn.modrinth.com/data/N7Eq8Y7N/versions/XUFkYeid/villagers-refreshed-v1.0.zip"
 hash-format = "sha512"
-hash = "5cbd399bb9f6457fa3c7f9544c8bedfdd62bbadd28da4ba699041be66525e0162f141691880456fa9e374dc031700df3d1140e8d6d85fabda624f05af7da7d39"
+hash = "6d3f0ce0df870a17f6b257ada567d221707f4476ac888cf9dcedcca09611d1577109f50546afd7b74dfa801b96f485264637b79db6d6dd21988b9e56c9276732"
 
 [update]
 [update.modrinth]
 mod-id = "N7Eq8Y7N"
-version = "KJXtAUIj"
+version = "XUFkYeid"

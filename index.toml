@@ -4740,7 +4740,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+hash = "549e93a0956266ea167c18b7e82bbc06f06b75b59777515ef2ec9844561ba6c9"
 metafile = true
 
 [[files]]
@@ -4769,8 +4769,18 @@ hash = "a4b248dc8851f286d84e0d44f4beac8e04ca2114f51f47806b92605cf949fb2c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/rainbow-enchantment-glint.pw.toml"
+hash = "d95b24a419347ddfa79944c86ed1c88ddd33dae6ead5ae5bb264a48fd555f2db"
+metafile = true
+
+[[files]]
 file = "resourcepacks/reimagined_test.pw.toml"
 hash = "85f632e1120cc528fe3bd1a96f9b9d4ad25cec6d7adc854ba214a3d83902ee73"
+metafile = true
+
+[[files]]
+file = "resourcepacks/silent-conglomery.pw.toml"
+hash = "6e21e397931469bc932ec655289937bfe427421333b514ab9fe7946bba955bf4"
 metafile = true
 
 [[files]]
@@ -4795,7 +4805,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/villagers-refreshed.pw.toml"
-hash = "9215d7d84e9fd18aa8fd76a2afef45700c618d563bb884b72a554fac7b279e56"
+hash = "570fe521e4e227ddad98b2bcbb3f29dd72c2d89c80a4e1bc6faf2265b8774979"
 metafile = true
 
 [[files]]

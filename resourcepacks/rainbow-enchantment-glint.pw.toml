@@ -1,0 +1,13 @@
+name = "Rainbow Enchantment Glint"
+filename = "Rainbow Enchanted Glint 1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/j4jO6gCp/versions/4aAhhR1m/Rainbow%20Enchanted%20Glint%201.1.zip"
+hash-format = "sha512"
+hash = "863a2aa3d9c76309cd174b2847bdb2aee5d33e4d5793fa597257a3da4d726f4a715639114e1df507bdf37738361b67483fc2829fe608274d471d34e995b538e4"
+
+[update]
+[update.modrinth]
+mod-id = "j4jO6gCp"
+version = "4aAhhR1m"

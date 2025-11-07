@@ -1,11 +1,11 @@
-name = "Fresh Animations"
-filename = "FreshAnimations_v1.10.1.zip"
+name = "Silent Conglomery"
+filename = "SiletnConglomery.zip"
 side = "client"
 
 # This is a locally distributed file, so this url will not download the file!
 [download]
 url = "https://example.com/example"
 hash-format = "sha256"
-hash = "e686ee8586942d9356e58127090e38966e465f8d381cac5002d5daf12498b493"
+hash = "e91e459a94ec5cdb4c9acf3389771b20b7169d0122c4d968f34fd425243e1e93"
 
 [update]
