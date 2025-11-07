@@ -4824,12 +4824,8 @@ hash = "992dc131fe2555649d90555275ce97ffd96e012180489b7b367ceb49f85ec8f7"
 metafile = true
 
 [[files]]
-file = "shaderpacks/Just Colored Lighting (v0.4.1).zip"
-hash = "d8c78df794cfe6abd8addb0489cd22b2669ff76170b03517f98682fc9f7f957d"
-
-[[files]]
 file = "shaderpacks/Just Colored Lighting (v0.4.1).zip.txt"
-hash = "3f18c5c2105b424cda5df878632aee3fe8b9da46dc7b114a030015d230b45102"
+hash = "8bf4f5c4154020ccaa7e0a8117fc42b6a4f205e7198f087347d6b16488700ce6"
 
 [[files]]
 file = "shaderpacks/just-colored-lighting.pw.toml"
