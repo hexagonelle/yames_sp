@@ -3846,14 +3846,17 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-professions-jep.pw.toml"
+hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-profiler-(jeargh).pw.toml"
+hash = "adc87e06e043a674b58293aae649b77944ae1beebce4805464ff7c5e7b1df740"
 metafile = true
 
 [[files]]
@@ -4018,6 +4021,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-enchantment-info.pw.toml"
+hash = "01cd331c493eeffc4dc04bdc92431cc7f42f0c7093005f90726143d2b091253a"
 metafile = true
 
 [[files]]
@@ -4810,4 +4814,5 @@ hash = "8bf4f5c4154020ccaa7e0a8117fc42b6a4f205e7198f087347d6b16488700ce6"
 
 [[files]]
 file = "shaderpacks/just-colored-lighting.pw.toml"
+hash = "11b54b23f79d2724997e067eb3f4018c8194a5616bd418da28d5cb6ce6d6da4c"
 metafile = true
