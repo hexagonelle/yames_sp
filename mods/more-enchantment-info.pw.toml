@@ -1,0 +1,13 @@
+name = "More Enchantment Info"
+filename = "more-enchantment-info-0.3.0-forge-1.20.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TIo1UXXV/versions/wdzLMJrS/more-enchantment-info-0.3.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "eada3a36e5146f1cc1b7b652c0f439500a5904b2c0ce2d7e770693f4403e665c3ffbb6395847dc3f20848c8532f110b946a944a2d66979b69ce74e67076c474c"
+
+[update]
+[update.modrinth]
+mod-id = "TIo1UXXV"
+version = "wdzLMJrS"

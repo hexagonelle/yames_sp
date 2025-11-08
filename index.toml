@@ -3495,41 +3495,6 @@ hash = "0bf4e6485d03ab87d66c5cb14e433c57a28abf167e9c4279d8c6a74e07b53e3a"
 metafile = true
 
 [[files]]
-file = "mods/emi-enchanting.pw.toml"
-hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
-metafile = true
-
-[[files]]
-file = "mods/emi-ores.pw.toml"
-hash = "46d4c949ae536fe659e4b49750c5cd737e78e89e7daac603db336b3cb7a3b176"
-metafile = true
-
-[[files]]
-file = "mods/emi-professions-(emip).pw.toml"
-hash = "a6d7be757adbf70795a30abcf6525156d6c8db551e86c876a0feabb9d3bd4f8c"
-metafile = true
-
-[[files]]
-file = "mods/emi.pw.toml"
-hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
-metafile = true
-
-[[files]]
-file = "mods/emiffect.pw.toml"
-hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
-metafile = true
-
-[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
 metafile = true
@@ -3880,6 +3845,18 @@ hash = "b05a3744be80c41425a7b61dec7848cb66d37f33947dba0554ea234e99873af9"
 metafile = true
 
 [[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-profiler-(jeargh).pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/just-player-heads.pw.toml"
 hash = "fb56e7d4d52f7cf4595363c6838a0ac78db5a4d02600209a88e5bd9726b0105e"
 metafile = true
@@ -4037,6 +4014,10 @@ metafile = true
 [[files]]
 file = "mods/mopeds.pw.toml"
 hash = "2f406a5001889805b137574244ca05274d63ef8875891f9eb76c160d7569bebb"
+metafile = true
+
+[[files]]
+file = "mods/more-enchantment-info.pw.toml"
 metafile = true
 
 [[files]]
@@ -4829,5 +4810,4 @@ hash = "8bf4f5c4154020ccaa7e0a8117fc42b6a4f205e7198f087347d6b16488700ce6"
 
 [[files]]
 file = "shaderpacks/just-colored-lighting.pw.toml"
-hash = "11b54b23f79d2724997e067eb3f4018c8194a5616bd418da28d5cb6ce6d6da4c"
 metafile = true
