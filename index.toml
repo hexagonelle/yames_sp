@@ -2278,6 +2278,11 @@ file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
 
 [[files]]
+file = "configs/paxi/datapacks/c.a.d.-pack.pw.toml"
+hash = "c44476b69765b8420b8debcdc2aeab26504c7eb9040f22a3f66a099a66220374"
+metafile = true
+
+[[files]]
 file = "defaultconfigs/constructionwand-server.toml"
 hash = "a8bab37e9bb6e402f5ca888f94bdb2719350d79a5fe76eb46654115cc0c8e37f"
 
@@ -2788,6 +2793,10 @@ hash = "dc4ee2cb355296519b90cdc99625887bdaf3867deb89c2c8f7c0b89e9e97eca6"
 [[files]]
 file = "kubejs/startup_scripts/villager_enchants_infobook.js"
 hash = "6b816b1bd3fb4ccd738c423d90e183140f4bfe91d2f9628d4eddd0df0c24b66a"
+
+[[files]]
+file = "modlist.md"
+hash = "98e8e4f310b68cdb360314e886ac94daacbeef5a5445a4615b8bd3bbf6a0b3d2"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -3856,7 +3865,7 @@ metafile = true
 
 [[files]]
 file = "mods/just-enough-resources-profiler-(jeargh).pw.toml"
-hash = "adc87e06e043a674b58293aae649b77944ae1beebce4805464ff7c5e7b1df740"
+hash = "5e53f9411ee8f743d875c4838b81cd010baea336632685b6be8ab37fc992d70a"
 metafile = true
 
 [[files]]
