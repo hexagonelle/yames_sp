@@ -1975,6 +1975,11 @@ hash = "270b635e09de18250d51ddac162c90c04e17fc71fdb78c452a53078775e07394"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/c.a.d.-pack.pw.toml"
+hash = "c44476b69765b8420b8debcdc2aeab26504c7eb9040f22a3f66a099a66220374"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/create-immersive-aircrafts-data-pack.pw.toml"
 hash = "da2b8d37867c5029ce53b23a99449edd6d71861a61cc953a36d8d27789712f09"
 metafile = true
@@ -2276,11 +2281,6 @@ hash = "e071dda265936f25e82bf076378ff5a84deda6090c1cc466517f4ab6818f4720"
 [[files]]
 file = "config/zeta-common.toml"
 hash = "684816927033626b990f8e277a43c0e24f6ef650cb38f9fee935f974fffd7392"
-
-[[files]]
-file = "configs/paxi/datapacks/c.a.d.-pack.pw.toml"
-hash = "c44476b69765b8420b8debcdc2aeab26504c7eb9040f22a3f66a099a66220374"
-metafile = true
 
 [[files]]
 file = "defaultconfigs/constructionwand-server.toml"
@@ -4739,7 +4739,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
-hash = "bf6bf356ece200c132c604c1cdd981c8a7baf6a30ed05fa057fdfc0444df779d"
+hash = "c4acd801de1d2fc6d87a460863b6c0bce61c64c60a22ddfa66e3410bd4ac06b0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-compats.pw.toml"
+hash = "177f1c99727cc979bca59e570feb006e45a09b70abf381257fe5591d1e818993"
 metafile = true
 
 [[files]]
