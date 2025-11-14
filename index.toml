@@ -2740,7 +2740,7 @@ hash = "d710846539e01a74474942ae050690d8c987bebac5318534f916f56bb63a230c"
 
 [[files]]
 file = "kubejs/server_scripts/immersiveweather_quark.js"
-hash = "e5196106a6fb683075af25db793836f7803880260777209f7a42cf6ee8c4a904"
+hash = "50e63fdc1c08d1f8ffe9e81ca32c307f2147fd46c0c9aea4a7729332107e2ccb"
 
 [[files]]
 file = "kubejs/server_scripts/lootr.js"
