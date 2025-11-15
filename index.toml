@@ -2800,7 +2800,7 @@ hash = "6b816b1bd3fb4ccd738c423d90e183140f4bfe91d2f9628d4eddd0df0c24b66a"
 
 [[files]]
 file = "modlist.md"
-hash = "98e8e4f310b68cdb360314e886ac94daacbeef5a5445a4615b8bd3bbf6a0b3d2"
+hash = "1661524d8417b848cd1420324214185a26cd66e831c3f7e05e888a7e631726ef"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -3508,6 +3508,41 @@ hash = "0bf4e6485d03ab87d66c5cb14e433c57a28abf167e9c4279d8c6a74e07b53e3a"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "46d4c949ae536fe659e4b49750c5cd737e78e89e7daac603db336b3cb7a3b176"
+metafile = true
+
+[[files]]
+file = "mods/emi-professions-(emip).pw.toml"
+hash = "a6d7be757adbf70795a30abcf6525156d6c8db551e86c876a0feabb9d3bd4f8c"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
+metafile = true
+
+[[files]]
+file = "mods/emienchants.pw.toml"
+hash = "c3e0dc431253ce66b1c78dc3e69e80b3c41a63707b92345f92d8708bcf87ad9f"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
 metafile = true
@@ -3709,7 +3744,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "f1982207e782ffe93f3cc6b38a910fdd6d9a3630d0d61498d5eb8b31cbe14469"
+hash = "e47b4547b51bcd116aa7734ccd185a4edbcec4caf7ff80ef195ada4b727f5f15"
 metafile = true
 
 [[files]]
@@ -3850,26 +3885,6 @@ metafile = true
 [[files]]
 file = "mods/jaopca.pw.toml"
 hash = "09123e9d447fe3a3a6d4f7a6c5de660578648fb197e085c1134ec2e3814cfd9c"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "b05a3744be80c41425a7b61dec7848cb66d37f33947dba0554ea234e99873af9"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-professions-jep.pw.toml"
-hash = "051e68cdc04c210afa273cda7e109bea1f08380451593be022db86e6301dff36"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
-metafile = true
-
-[[files]]
-file = "mods/just-enough-resources-profiler-(jeargh).pw.toml"
-hash = "5e53f9411ee8f743d875c4838b81cd010baea336632685b6be8ab37fc992d70a"
 metafile = true
 
 [[files]]
@@ -4520,6 +4535,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+metafile = true
+
+[[files]]
+file = "mods/tmrv.pw.toml"
+hash = "c6fbd370928104ad11bfe108fd5b19ced046a9cc6d39499a9ef5399ac00b4063"
 metafile = true
 
 [[files]]
