@@ -2564,7 +2564,7 @@ hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
 [[files]]
 file = "kubejs/client_scripts/jei.js"
-hash = "8f95187855f5f27834a1bc352fac8e40ee1856fff1a9606397d81e1a6f9679b5"
+hash = "ecd70b5a0b524af97a95e027a8410aa7bee2025441123717d83ba81eb07fc655"
 
 [[files]]
 file = "kubejs/client_scripts/lootr.js"
@@ -2800,7 +2800,7 @@ hash = "6b816b1bd3fb4ccd738c423d90e183140f4bfe91d2f9628d4eddd0df0c24b66a"
 
 [[files]]
 file = "modlist.md"
-hash = "1661524d8417b848cd1420324214185a26cd66e831c3f7e05e888a7e631726ef"
+hash = "a2b75740bc514707ed5fd460827e1df6222260e6d4e7a1f54c1475f68419ab45"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
