@@ -3508,6 +3508,11 @@ hash = "0bf4e6485d03ab87d66c5cb14e433c57a28abf167e9c4279d8c6a74e07b53e3a"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
 metafile = true
@@ -3525,11 +3530,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
-metafile = true
-
-[[files]]
-file = "mods/emienchants.pw.toml"
-hash = "c3e0dc431253ce66b1c78dc3e69e80b3c41a63707b92345f92d8708bcf87ad9f"
 metafile = true
 
 [[files]]
