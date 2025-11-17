@@ -4053,11 +4053,6 @@ hash = "2f406a5001889805b137574244ca05274d63ef8875891f9eb76c160d7569bebb"
 metafile = true
 
 [[files]]
-file = "mods/more-enchantment-info.pw.toml"
-hash = "01cd331c493eeffc4dc04bdc92431cc7f42f0c7093005f90726143d2b091253a"
-metafile = true
-
-[[files]]
 file = "mods/morejs.pw.toml"
 hash = "fc6c3ef7784d2da83201a262e90dfa01c4cd5cf1e65ec3fd68e8662572c90e88"
 metafile = true
