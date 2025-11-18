@@ -2961,6 +2961,11 @@ hash = "67c62e4c44abab8dbed72009900731830e689c80a1d4cd9f706f56a327d1a087"
 metafile = true
 
 [[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "d001000953fec8ed50134bab2c109bf0aa205aa8e26a50906600469961dd91bb"
+metafile = true
+
+[[files]]
 file = "mods/beautiful-enchanted-books-mod-edition.pw.toml"
 hash = "85f0db931f77f464fafb9a7b4e4408390352a6a588c40405ece99843baec4428"
 metafile = true
