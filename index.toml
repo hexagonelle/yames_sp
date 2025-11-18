@@ -2639,6 +2639,10 @@ file = "kubejs/server_scripts/createhenry.js"
 hash = "924359d6d1c034101fc27ac4353b4172dee56a8825d88b783847df9128132076"
 
 [[files]]
+file = "kubejs/server_scripts/createmechanicalspawner.js"
+hash = "86c8278dcc221a509017ba9f4e68a14a30290026a61fb0788f439b792568bd71"
+
+[[files]]
 file = "kubejs/server_scripts/custom-baby_coal.js"
 hash = "a91c2cd1b93c470194fcdfc06982ecb041e6606f059ca7bd81942d3c8e7c8cb9"
 
@@ -2773,6 +2777,10 @@ hash = "a4c4d715d0e15aa11616bc0a5e8c1b55a24e087117bbf5411cc2ab0e0c6b1da9"
 [[files]]
 file = "kubejs/server_scripts/waystones.js"
 hash = "f572118114c173397668570e63225d83e1493a9bd0ea39ba833a0d745f1d058a"
+
+[[files]]
+file = "kubejs/startup_scripts/createmechanicalspawner.js"
+hash = "9dea1274314853b6b55e1e239d3fda97f1bdd6c3f2203c13ae1a77cb170e1003"
 
 [[files]]
 file = "kubejs/startup_scripts/custom-babycoal.js"
@@ -3070,6 +3078,11 @@ metafile = true
 [[files]]
 file = "mods/cardiac.pw.toml"
 hash = "56dea3b375f85065f15ee995e8761a3dbe614f1591a325e0faf51e892f998032"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-x-yungs.pw.toml"
+hash = "c67156797b7e0dace959382b1d21f0431e0d1482f3d5d1d0e5733089a87f093b"
 metafile = true
 
 [[files]]
@@ -3468,6 +3481,11 @@ hash = "e83fca1fae930c9513c107527d4618a8832f8b9e779e1d50b1e63e148073f83d"
 metafile = true
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "953519957bb8f2f79304bd5ae7df565498d13a16ee62d7e698bd062d59add283"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "014cf6e6912ff9476c0ae25b92b2c61aa71c5f780ec670b43e3b30602620bde3"
 metafile = true
@@ -3713,11 +3731,6 @@ hash = "1a6e72e20f9de3bcd3ea6736b488106f35d8700f8b9af32eb13f3742f0943769"
 metafile = true
 
 [[files]]
-file = "mods/forbidden-arcanus.pw.toml"
-hash = "7c2db6d1f9151abb1f5bfb898dace19701884c3256a6dca567f3953db9ac3a08"
-metafile = true
-
-[[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "51a92411c991732cb5e81f86754e177bc8fbd4f6d7bb02940e1d4852ca961540"
 metafile = true
@@ -3793,8 +3806,18 @@ hash = "e3f9f0233938416ad52533f870fd79b3c5b7ffff5625c03b7d4f234a238b602b"
 metafile = true
 
 [[files]]
+file = "mods/hexalia.pw.toml"
+hash = "57ad53a7821c6ce398d7bbd153df6bc0897bdb41514b08adb97de16f4a9dceeb"
+metafile = true
+
+[[files]]
 file = "mods/hexerei.pw.toml"
 hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
+metafile = true
+
+[[files]]
+file = "mods/hexforged-hexalia-addon.pw.toml"
+hash = "26a89a8e11ffcb0d3833891efa11762fe763fcc7a0121455de4354ac22790604"
 metafile = true
 
 [[files]]
@@ -3855,6 +3878,11 @@ metafile = true
 [[files]]
 file = "mods/integrated-api.pw.toml"
 hash = "6703d5686b7249c586a3a710a909dfd0eba3e2d0c76bc152efb2c43494e5b2e1"
+metafile = true
+
+[[files]]
+file = "mods/integrated-cataclysm.pw.toml"
+hash = "f27119e6d95e46b4943ec7af13ff5a68f8344c6f0344e86a22fe686512c754f7"
 metafile = true
 
 [[files]]
@@ -3933,6 +3961,11 @@ hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "2077e6d69a10bbe27b402aa52e5a21ba1abec55b7b573e173e703908a85518ad"
+metafile = true
+
+[[files]]
 file = "mods/leawind-third-person.pw.toml"
 hash = "0c6a080492d16f771194bf297614b086d9130be598dc9a098a6d5cc3559357d2"
 metafile = true
@@ -3948,6 +3981,11 @@ hash = "b60c9b80b32157059c187927cf57ef75cb7fb84b5cea254ba60dcb0cc42481ba"
 metafile = true
 
 [[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
+metafile = true
+
+[[files]]
 file = "mods/littletiles.pw.toml"
 hash = "4636619eb9cd279957e6f4e840c0e660bf3850a877dc34ba26eb3582f12183c4"
 metafile = true
@@ -3955,6 +3993,11 @@ metafile = true
 [[files]]
 file = "mods/lmd.pw.toml"
 hash = "6aa6897a3227a41db128aef512ad6e6cf33e3c3b806973f94bf63a2eed69f4df"
+metafile = true
+
+[[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
 metafile = true
 
 [[files]]
@@ -3998,6 +4041,11 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
+file = "mods/malum.pw.toml"
+hash = "00a16f6cc02ad9f0825138857da26e6bf5c0f65dc5d4d40705b091e29176d3a2"
+metafile = true
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "245b2e9a6498ed63673d4ca8e0c101f8adc9f0a8d24c8088923a3386fcf69fa5"
 metafile = true
@@ -4035,6 +4083,11 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "bbef5e271ea7e225d0cf05749ef319f682d830f75376d301b80aa16671223b4c"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "bad5d109262b0a07d364973c7da2a4d2ac2c6279223c5c726d410035ef5a3665"
 metafile = true
 
 [[files]]

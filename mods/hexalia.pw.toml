@@ -1,0 +1,13 @@
+name = "Hexalia"
+filename = "hexalia-1.2.81-1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bkz5C0dQ/versions/DSs6eT6i/hexalia-1.2.81-1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "5c5c53b27d93de36b991cb2809d9128bcc3aa5e445b1e129f04e9bb0a4c302f653a2ae2c8a67fe4837bc845c2fed31edf043936db12eb582b6bcb03ebd7342db"
+
+[update]
+[update.modrinth]
+mod-id = "bkz5C0dQ"
+version = "DSs6eT6i"

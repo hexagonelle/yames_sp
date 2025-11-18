@@ -1,0 +1,13 @@
+name = "Hexforged: Hexalia Addon"
+filename = "hexforged-0.1.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cf3fb65134df41154b94c20590eb9987e48f38c3"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6715242
+project-id = 1225833
