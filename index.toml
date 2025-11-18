@@ -3816,11 +3816,6 @@ hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
-file = "mods/hexforged-hexalia-addon.pw.toml"
-hash = "26a89a8e11ffcb0d3833891efa11762fe763fcc7a0121455de4354ac22790604"
-metafile = true
-
-[[files]]
 file = "mods/highlight.pw.toml"
 hash = "bfe8e8ef61657bfc608211ceec3ba076813b6b534b31ab05c51d52fdbdaf6833"
 metafile = true
