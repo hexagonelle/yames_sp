@@ -1,0 +1,9 @@
+name = "Lantern PBR"
+filename = "LanternPBR.zip"
+side = "client"
+
+# URL is merely a standin, this file is distributed locally!
+[download]
+url = "https://www.example.com"
+hash-format = "sha256"
+hash = "b8b67bbf9972ef1595924ed3446a9df6ad4872ec504736654537f59160ed33cb"

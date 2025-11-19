@@ -4835,6 +4835,11 @@ hash = "7733542b4c394e3937a31220ddd14c0531f8da8164c629f9d7dcb8df2e406ef0"
 metafile = true
 
 [[files]]
+file = "resourcepacks/lantern-pbr.pw.toml"
+hash = "7f3de8ffcb5a6cce5384c4a2252c6845703b1b6613d38ecc17b2d1b1ebf5f1b0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/merchant_fix.pw.toml"
 hash = "01e2219ba3bc91310a6f80d677f1c0fa5b4b44f18f1609eb60af0a1c48aed9f2"
 metafile = true
