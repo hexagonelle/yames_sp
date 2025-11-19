@@ -4752,7 +4752,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "1660ff08e2a3991878f0513fe61e47566ced2cb92ed3eeb631ae0f78e53528e7"
+hash = "f915b953009e707f70d854b7d73fbd333e5fa3524ebfa20e8269fcf69ac95bb4"
 
 [[files]]
 file = "resourcepacks/3d-crops.pw.toml"
@@ -4836,7 +4836,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/lantern-pbr.pw.toml"
-hash = "7f3de8ffcb5a6cce5384c4a2252c6845703b1b6613d38ecc17b2d1b1ebf5f1b0"
+hash = "2cfde3ebe93f6322d82c221949ebb2b95a51330dea76f68d83f225d7b5d7d7be"
 metafile = true
 
 [[files]]

@@ -6,4 +6,4 @@ side = "client"
 [download]
 url = "https://www.example.com"
 hash-format = "sha256"
-hash = "b8b67bbf9972ef1595924ed3446a9df6ad4872ec504736654537f59160ed33cb"
+hash = "ce233c9d6714b7aaa56b7c9ef22684f49b2049c9326f51f9eb28f179c7e4b129"
