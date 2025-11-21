@@ -2564,7 +2564,7 @@ hash = "af522e27edccf029ed46443d990ecadace87fbe87161c2926f938162783ede86"
 
 [[files]]
 file = "kubejs/client_scripts/jei.js"
-hash = "ecd70b5a0b524af97a95e027a8410aa7bee2025441123717d83ba81eb07fc655"
+hash = "2ecd2adc64a5c61667290c65d811e614f3bf5b22e091c2eb7d041b8bed5b619c"
 
 [[files]]
 file = "kubejs/client_scripts/lootr.js"
@@ -2640,7 +2640,7 @@ hash = "924359d6d1c034101fc27ac4353b4172dee56a8825d88b783847df9128132076"
 
 [[files]]
 file = "kubejs/server_scripts/createmechanicalspawner.js"
-hash = "86c8278dcc221a509017ba9f4e68a14a30290026a61fb0788f439b792568bd71"
+hash = "b1c5e182bf2ce7af955634bdbcd158242a986e754b23d13dae249c226676db0a"
 
 [[files]]
 file = "kubejs/server_scripts/custom-baby_coal.js"
@@ -2649,6 +2649,10 @@ hash = "a91c2cd1b93c470194fcdfc06982ecb041e6606f059ca7bd81942d3c8e7c8cb9"
 [[files]]
 file = "kubejs/server_scripts/custom-babycoal.js"
 hash = "a91c2cd1b93c470194fcdfc06982ecb041e6606f059ca7bd81942d3c8e7c8cb9"
+
+[[files]]
+file = "kubejs/server_scripts/custom-babycoal_malum.js"
+hash = "c667c66cf4078f0f98865cd1c4451130397d18ddb063b67d85ff1e32d65d0b3f"
 
 [[files]]
 file = "kubejs/server_scripts/custom-compressedblocks.js"
@@ -3522,6 +3526,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi-create-schematics.pw.toml"
+hash = "fd2e4fd4c29e54badbd039ce10b0a0f0f9388d40a9f0ca03c2346bb50d5b6cd0"
 metafile = true
 
 [[files]]
