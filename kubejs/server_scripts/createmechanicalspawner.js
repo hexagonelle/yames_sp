@@ -2,17 +2,37 @@ ServerEvents.recipes(event => {
 
 	// remove default recipes
 	event.remove({ type: 'create_mechanical_spawner:spawner' })
-	event.remove({ id: 'create_mechanical_spawner:spawn_fluid_random_legacy' })
-	event.remove({ id: 'create_mechanical_spawner:spawn_fluid_enchantment_industry_experience' })
-	event.remove({ id: 'create_mechanical_spawner:spawn_fluid_enchantment_industry_hyper_experience' })
-	event.remove({ input: 'create_mechanical_spawner:spawn_fluid_random' })
 
-	// add new mixing recipes
+	let disableFluids = [
+		"evoker",
+		"parrot",
+		"bat",
+		"wolf",
+		"villager",
+		"pig",
+		"fox",
+		"cow",
+		"bee",
+		"rabbit",
+		"panda",
+		"horse",
+		"chicken",
+		"random_legacy",
+		"enchantment_industry_experience",
+		"enchantment_industry_hyper_experience"
+	]
+
+	for (let fluid of disableFluids) {
+		event.remove({id: `create_mechanical_spawner:mixing/spawn_fluid_${fluid}`})
+	}
+
+	// BASE FLUIDS
 	event.recipes.create.mixing(
 		Fluid.of("create_mechanical_spawner:spawn_fluid_random", 100),
 		[
 			Fluid.of('minecraft:water', 90),
 			Fluid.of('create_enchantment_industry:experience', 10)
+
 		]
 	).heated()
 
@@ -51,7 +71,49 @@ ServerEvents.recipes(event => {
 	).heated()
 
 
+	// MOB LOOT //
+
+	// function lootGenerator(lootList){
+	// 	var lootArray = [];
+	// 	for (let loot of lootList){
+	// 		lootArray.append(Item.of(`minecraft:${loot}`).withChance(${chance}))
+	// 	}
+	// 	return lootArray
+	// }
+
+	// let charredLootList = [
+	// 	{loot:"create:experience_block"}
+	// 	{loot:"coal", chance: 0.333},
+	// 	{loot:"bone", chance: 0.333},
+	// 	{loot:"bone", chance: 0.333},
+	// 	{loot:"wither_skeleton_skull", chance: 0.025}
+	// ]
+
+	// const charredLoot = lootGenerator(charredLootList);
+
 	//Specific MOBS
+
+
+	// let mobs = [
+	// 	{
+	// 		mod:"minecraft", entity:"wither_skeleton", fluidAmt:100, time:1000,
+	// 		loot:[
+	// 			Item.of("create:experience_block"),
+	// 			Item.of("minecraft:coal").withChance(0.3333),
+	// 			Item.of("minecraft:bone").withChance(0.3333),
+	// 			Item.of("minecraft:bone").withChance(0.3333),
+	// 			Item.of("minecraft:wither_skeleton_skull").withChance(0.025)
+	// 		]
+	// 	}
+	// ]
+
+	// for (let mob of mobs) {
+	// 	event.recipes.createMechanicalSpawnerSpawner(
+	// 		Fluid.of(`create_mechanical_spawner:spawn_fluid_${mob.entity}`, fluidAmt)
+	// 	).processingTime(mob.time)
+	// 	.mob(`${mob.mod}:${mob.entity}`)
+	// }
+
 	event.recipes.createMechanicalSpawnerSpawner(
 		Fluid.of("create_mechanical_spawner:spawn_fluid_wither_skeleton", 100)
 		).processingTime(1000)

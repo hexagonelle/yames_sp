@@ -1,3 +1,10 @@
+JEIEvents.removeRecipes(event => {
+	event.remove(
+		"malum:coal_fragment",
+		"malum:charcoal_fragment"
+	)
+})
+
 JEIEvents.information(event => {
 
 	const desertEnchants = [

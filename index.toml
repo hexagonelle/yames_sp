@@ -3316,11 +3316,6 @@ hash = "4d5aeedb3f0add6c538df35e1d90143a41e542e99443da77eb482bc3e0255d3d"
 metafile = true
 
 [[files]]
-file = "mods/create-more-farmables.pw.toml"
-hash = "01717390dffd15718a6aaaa9eecde970c4978e28da7ed24d089a72a5b492d95c"
-metafile = true
-
-[[files]]
 file = "mods/create-more-parallel-pipes.pw.toml"
 hash = "b11c71973375fa0bdda828a503612291d1d069304f4593271f6806c5e02a8190"
 metafile = true
@@ -3523,6 +3518,10 @@ metafile = true
 [[files]]
 file = "mods/embers.pw.toml"
 hash = "0bf4e6485d03ab87d66c5cb14e433c57a28abf167e9c4279d8c6a74e07b53e3a"
+metafile = true
+
+[[files]]
+file = "mods/emi-create-schematics.pw.toml"
 metafile = true
 
 [[files]]
